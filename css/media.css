@@ -1,0 +1,461 @@
+@media(max-width:1400px){
+    .header .container{
+        margin-right: 130px;
+    }
+    .header .left img{
+        transform: translate(0);
+    }
+    .inf .top{
+        margin-right: 0;
+    }
+    .car-con .cun .row{
+        margin-right: 0;
+    }
+    .car-pices .pic{
+        padding-right: initial;
+    }
+    .carous .col-lg-1{
+        display: none;
+    }
+    .car-herag .carous h3:first-child{
+        margin-right: 0;
+    }
+    .header .owl-nav{
+        bottom: 40px;
+    }
+    .car-hertwo .head{
+        max-width: 650px;
+        justify-content: space-between;
+    }
+}
+@media(max-width:1200px){
+    .header .owl-nav{
+        bottom: 80px;
+    }
+    .navigate .left .menu {
+        display: inline-block;
+    }
+    .navigate .row{
+        justify-content: space-between;
+    }
+    .navigate .half{
+        display: none;
+    }
+    .header .content{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .header .container{
+        margin-left: auto;
+        padding-left: initial;
+        margin-right: auto;
+    }
+    .header .left img , 
+    .header .right{
+        transform: translateX(0);
+        height: fit-content;
+    }
+    .header .left img{
+        position: relative;
+        top: -125px;
+        z-index: -1;
+    }
+    .header .right{
+        padding-top: 100px;
+    }
+    .car-buy .row{
+        gap: 35px;
+    }
+    .car-contact .comm .left{
+        border-radius: 0;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .vid .div.col-lg-1.col-xs-0{
+        display: none;
+    }
+    .pic .first-rw{
+        flex-direction: column;
+    }
+    .car-hertwo .head{
+        justify-content: start;
+        gap: 50px;
+    }
+    .contact{
+        background-position: initial;
+    }
+}
+@media(max-width : 990px) {
+    .about .content{
+        flex-direction: column;
+        justify-content: start;
+    }
+    .about h3{
+        margin-bottom: 10px;
+    }
+    .about .left{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .about .left p{
+        margin-left: 0;
+    }
+    .about .left .stat .cont h5{
+        font-size: 30px;
+    }
+    .about .left .stat .cont h5+ p{
+        font-size: 30px;
+    }
+    .about .right {
+        max-width: 100%;
+    }
+    .car-new-acc .sign .row{
+        height: fit-content;
+        padding-bottom: 55px;
+        padding-left: 15px;
+    }
+    .inf .top{
+        margin-right: 0;
+        height: initial;
+        margin-top: initial;
+    }
+    .inf .top .left{
+        position: relative;
+        bottom: 65px;
+    }
+    .inf .top .left img{
+        width: 100%;
+    }
+    .inf .top .row .right p{
+        max-width: 546px;
+    }
+    .pros .cont{
+        margin-bottom: 20px;
+    }
+    .servic .row{
+        flex-direction: column-reverse;
+    }
+    .servic .row .left{
+        margin-top: 0;
+    }
+    .servic .row .right img{
+        width: 90%;
+    }
+    .vid .left{
+        max-width: 767px;
+        overflow: hidden;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+    }
+    .vid .right{
+        text-align: center;
+    }
+    .vid .right p{
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 600px;
+        height: fit-content;
+        margin-bottom: 30px;
+    }
+    .vid .left img{
+        width: 100%;
+    }
+    .car-pices .pic{
+        padding: 15px;
+    }
+    .car-pices .pic .right{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        margin-bottom: 60px;
+    }
+    .car-pices .pic .right .bottom{
+        margin-top: 0;
+        max-height: 349px;
+        height: 100%;
+    }
+    .car-ask .ask{
+        padding-right: 50px;
+    }
+    .car-herag .carous .row .left{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding-right: 0;
+        margin-top: 20px;
+        align-items: baseline;
+    }
+    .car-con .cun .right .button{
+        margin-bottom: 30px;
+    }
+    .car-con .cun .right .top{
+        justify-content: start;
+        gap: 85px;
+    }
+    .car-con .slider-nav.slick-initialized.slick-slider{
+        height: 96px;
+        overflow: hidden;
+    }
+    .car-buy .left  .button{
+        text-align: start;
+    }
+    .car-buy .left  .button + p{
+        text-align: start;
+    }
+    .car-person .person .bottom{
+        height: fit-content;
+    }
+    .car-person .person .bottom .row{
+        gap: 35px;
+    }
+    .car-person .person .two .rad .left img{
+        margin-right: 30px;
+    }
+    .car-person .person .two .rad{
+        gap: 15px;
+    }
+    .car-contact .comm{
+        margin-top: 60px;
+        margin-bottom: 130px;
+    }
+    .car-hertwo .carous{
+        margin-bottom: 60px;
+    }
+    .car-acc .contact{
+        padding-top: 90px;
+    }
+    .inf .top .row .right h3{
+        padding-top: 80px;
+    }
+    .car-con .slider-nav.slick-initialized.slick-slider img{
+        max-width: 99% !important;
+        object-fit: contain;
+    }
+    .car-herag .carous .row .left .bottom .cont{
+        flex-wrap: nowrap;
+    }
+    .car-herag .carous .row .left .bottom ,
+    .car-herag .carous .row .left .top{
+        max-width: 350px;
+    }
+    .car-hertwo .head {
+        justify-content: space-between;
+        gap: initial;
+    }
+    .car-person .person .bottom .row .left{
+        text-align: center;
+    }
+    .car-person .person .bottom .row .left img{
+        width: 70%;
+    }
+}
+@media(max-width:770px){
+    .header .left img{
+        top: -82px;
+    }
+    .car-contact .comm .right{
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .car-acc .contact{
+        padding-top: 60px;
+    }
+    .car-who .countin .row .cont h3,
+    .car-who .countin .row .cont h6{
+        font-size: 30px;
+    }
+    .inf ,
+    .servic{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .special-heading h2{
+        font-size: 25px;
+        padding-top: 1px;
+    }
+    .special-heading h2 span{
+        font-size: 30px;
+    }
+    .about .left h3{
+        font-size: 30px;
+    }
+    .about .left .stat .cont h5{
+        font-size: 25px;
+    }
+    .about .left .stat .cont h5+ p{
+        font-size: 25px;
+    }
+    .car-new-acc .sign .row .right{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .car-new-acc .contact{
+        padding-top: 38px;
+    }
+    .car-new-acc .sign .row .right{
+        border-left: 0;
+    }
+    .car-new-acc .sign .row .left{
+        text-align: center;
+    }
+    .car-new-acc .sign .row .left img{
+        max-width: 70%;
+    }
+    .car-ask .ask ,
+    .car-pices .nums{
+        margin-bottom: 50px;
+    }
+    .car-con .cun{
+        padding-top: 25px;
+        padding-bottom: 64px;
+    }
+    .car-con .cun .row{
+        gap: 15px;
+    }
+}
+@media(max-width:560px){
+    #search .input-group{
+        max-width: 500px;
+        width: 100%;
+    }
+    .car-new-acc .sign{
+        margin-top: 50px;
+    }
+    .contact .ryad img{
+        margin-bottom: 90px;
+    }
+    .navigate .row{
+        flex-direction: column;
+        gap: 25px;
+        justify-content: center;
+    }
+    .navigate .left ,
+    .navigate .right{
+        width: 100%;
+    }
+    .navigate .right{
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .navigate .left{
+        justify-content: center;
+    }
+    .header .right h3{
+        white-space: initial;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .header .left img{
+        top: -30px;
+    }
+    .header .owl-nav{
+        bottom: 7%;
+    }
+    .serv .item .cont{
+        flex-direction: column;
+        justify-content: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .pices .row{
+        justify-content: center;
+        gap: 20px;
+    }
+    .about .left .stat .row{
+        justify-content: center;
+        text-align: center;
+    }
+    .contact{
+        background-position-x: right;
+        padding-top: 2px;
+    }
+    .car-acc .sign .form{
+        padding-right: 12px;
+        padding-left: 25px;
+    }
+    .car-new-acc .sign .row{
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .vid .left .player{
+        padding-top: 50px;
+    }
+    .car-ask .ask{
+        padding-right: 20px;
+    }
+    .car-buy .right .cont{
+        height: fit-content;
+        max-width: 372px;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 0;
+    }
+    .car-buy .left .price{
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .car-buy .left .button ,
+    .car-buy .left .button + p{
+        text-align: center;
+    }
+    .car-person .person .bottom{
+        padding-right: 37px;
+        padding-left: 44px;
+    }
+    .car-person #paid{
+        max-width: 500px;
+        width: 100%;
+        padding: 77px;
+    }
+    .vid .right p{
+        max-width: 320px;
+        height: 215px;
+        overflow: hidden;
+    }
+    .gallery .owl-carousel .item{
+        background-position-x: right;
+        background-size: contain;
+        background-repeat: no-repeat;
+        max-width: 352px;
+    }
+    .car-herag .carous .row .right .bottom .link{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .car-herag .carous .row .right .bottom p{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .car-herag .carous .row .left{
+        justify-content: center;
+    }
+    .special-heading h2 span{
+        font-size: 25px;
+    }
+    .gallery .link{
+        margin-bottom: 5px;
+    }
+    .car-herag .carous{
+        padding-top: 50px;
+    }
+}
+@media (max-width : 360px) {
+    .about .left .stat .row{
+        justify-content: center;
+    }
+    .car-acc .sign .form .input-group input ,
+    .car-acc .sign .form .flex-nowrap{
+        min-width: initial;
+        width: 265px;
+    }
+}
